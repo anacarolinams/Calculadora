@@ -14,13 +14,13 @@ Olá, seja bem vindo ao meu pequeno projeto de calculadora. Este foi um exercíc
 
 # :file_folder: Acesso ao projeto:
 
-É possível visualizar as pastas e códigos nesse repositório, mas você também pode acessar diretamente ao site da minha calculadora, realizado com o deploy aqui do Github Pages.
+É possível visualizar as pastas e códigos nesse repositório, mas você também pode acessar diretamente ao site da minha calculadora, realizado com o deploy do Vercel ou Github Pages.
 
 # :open_file_folder: Como abrir e rodar o projeto?
 
-É facil, basta clicar no neste [link]() e você será direcionado para o site, onde poderá testar as funcionalidades do projeto.
+É facil, basta clicar no neste [link](https://calculadora-xi-ivory.vercel.app/) e você será direcionado para o site, onde poderá testar as funcionalidades do projeto.
 
-## Feito por:
+# 💻 Feito por:
 
 * Ana Carolina Souza
 
